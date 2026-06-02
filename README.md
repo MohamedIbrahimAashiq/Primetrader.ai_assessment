@@ -1,6 +1,3 @@
-Perfect. Based on your notebook, dashboard, screenshots, and the way you usually write (simple, direct, and easy to understand), I would use something like this for your **README.md**.
-
----
 
 # Trader Performance Analysis Using Bitcoin Fear & Greed Sentiment
 
