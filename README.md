@@ -220,22 +220,22 @@ An interactive Streamlit dashboard was developed to visualize the analysis resul
 ![Dashboard Overview](/images/img-1.png)
 
 ### Market Sentiment Performance
-![Market Sentiment Performance](img-2.png)
+![Market Sentiment Performance](images/img-2.png)
 
 ### Fear & Greed Correlation and Coin Analysis
-![Correlation Analysis](img-3.png)
+![Correlation Analysis](images/img-3.png)
 
 ### Coin Performance and Buy vs. Sell Analysis
-![Coin Performance](img-4.png)
+![Coin Performance](images/img-4.png)
 
 ### Monthly Performance Analysis
-![Monthly Analysis](img-5.png)
+![Monthly Analysis](images/img-5.png)
 
 ### Trader Clustering
-![Trader Clustering](img-6.png)
+![Trader Clustering](images/img-6.png)
 
 ### Top Traders by Sentiment
-![Top Traders](img-7.png)
+![Top Traders](images/img-7.png)
 
 ---
 
