@@ -236,7 +236,7 @@ Features include:
 
 ### Dashboard Overview
 
-![Dashboard Overview](img-1.png)
+![Dashboard Overview](/images/img-1.png)
 
 ---
 
